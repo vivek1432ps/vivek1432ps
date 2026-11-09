@@ -98,6 +98,14 @@
 
 **Open to learning, collaboration, and AI-focused opportunities.**
 
+### 💬 VISITOR FEEDBACK
+
+Have an idea, suggestion, or collaboration proposal? [Leave feedback through a GitHub issue](https://github.com/vivek1432ps/vivek1432ps/issues/new?template=visitor-feedback.yml).
+
+### 📚 LEARNING IN PUBLIC
+
+I track genuine progress in DSA, Python, AI/ML, and projects. Use the [Learning Log issue template](https://github.com/vivek1432ps/vivek1432ps/issues/new?template=learning-log.yml) to record a session, or browse [past learning notes](https://github.com/vivek1432ps/vivek1432ps/issues?q=label%3Alearning-log).
+
 <sub>⚡ THINK · BUILD · TRAIN · DEPLOY · REPEAT</sub>
 
 </div>
