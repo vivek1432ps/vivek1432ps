@@ -2,9 +2,11 @@
 
 # ⚡ VIVEK PS
 
-### AI & Data Science Developer · Machine Learning · Deep Learning
+### 🚀 AI & Deep Learning Developer
 
-**Building intelligent systems. Exploring what's next.**
+**🧠 Building Intelligent Systems · Exploring What's Next**
+
+🌈 Machine Learning · Deep Learning · Computer Vision · Generative AI
 
 [![GitHub](https://img.shields.io/badge/GitHub-vivek1432ps-0d1117?style=for-the-badge&logo=github)](https://github.com/vivek1432ps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vivek-ps-542774380/)
