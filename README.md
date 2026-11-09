@@ -34,10 +34,6 @@
 </tr>
 </table>
 
-## 👨‍💻 SYSTEM PROFILE
-
----
-
 ## 🧬 TECHNOLOGY MATRIX
 
 <div align="center">
