@@ -1,0 +1,35 @@
+name: Portfolio quality checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "30 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate portfolio HTML and links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Validate HTML
+        run: npx --yes html-validate index.html
+
+      - name: Check external links
+        run: |
+          npx --yes linkinator index.html README.md \
+            --skip "https://github-readme-stats.vercel.app,https://streak-stats.demolab.com,https://komarev.com" \
+            --timeout 15000
