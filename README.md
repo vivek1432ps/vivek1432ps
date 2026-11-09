@@ -14,6 +14,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ## 👨‍💻 SYSTEM PROFILE
 
 - 🎓 **M.Sc. Data Science** — Tumkur University
@@ -21,6 +25,17 @@
 - 🧠 **Focus:** Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision
 - 🌱 **Currently exploring:** RAG, Agentic AI, Multimodal Models, and Generative AI
 - 🛠️ **Building:** Python-based AI applications and computer-vision projects
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/vivek1432ps/vivek1432ps/main/assets/ai-neural-art.svg" width="260" alt="Neon AI neural network artwork" />
+
+</td>
+</tr>
+</table>
+
+## 👨‍💻 SYSTEM PROFILE
 
 ---
 
