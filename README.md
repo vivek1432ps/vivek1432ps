@@ -17,20 +17,19 @@
 <table>
 <tr>
 <td width="60%" valign="top">
-
-## 👨‍💻 SYSTEM PROFILE
-
-- 🎓 **M.Sc. Data Science** — Tumkur University
-- 📍 **Based in:** Karnataka, India
-- 🧠 **Focus:** Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision
-- 🌱 **Currently exploring:** RAG, Agentic AI, Multimodal Models, and Generative AI
-- 🛠️ **Building:** Python-based AI applications and computer-vision projects
-
+<h2>👨‍💻 SYSTEM PROFILE</h2>
+<ul>
+<li>🎓 <strong>M.Sc. Data Science</strong> — Tumkur University</li>
+<li>📍 <strong>Based in:</strong> Karnataka, India</li>
+<li>🧠 <strong>Focus:</strong> Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision</li>
+<li>🌱 <strong>Currently exploring:</strong> RAG, Agentic AI, Multimodal Models, and Generative AI</li>
+<li>🛠️ <strong>Building:</strong> Python-based AI applications and computer-vision projects</li>
+</ul>
 </td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/vivek1432ps/vivek1432ps/main/assets/ai-neural-art.svg" width="260" alt="Neon AI neural network artwork" />
-
+<td width="40%" valign="middle" align="center">
+<h3>MISSION STATUS</h3>
+<p><strong>LEARN → BUILD → EXPERIMENT → DEPLOY</strong></p>
+<p>Turning AI ideas into practical applications.</p>
 </td>
 </tr>
 </table>
