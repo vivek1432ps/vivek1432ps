@@ -1,0 +1,49 @@
+name: "Daily Learning Log"
+description: "Record real coding, DSA, Python, or AI/ML progress."
+title: "[Learning] "
+labels: ["learning-log"]
+body:
+  - type: markdown
+    attributes:
+      value: "Log what you actually studied or built. Be specific; small, honest progress is valuable."
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      description: "Use YYYY-MM-DD."
+      placeholder: "2026-11-09"
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Learning area
+      options:
+        - Python / DSA
+        - Machine Learning
+        - Deep Learning
+        - Computer Vision
+        - RAG / Agentic AI
+        - Web Development / APIs
+        - Git / GitHub
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: learned
+    attributes:
+      label: What did you learn?
+      description: "Explain the concept in your own words."
+      placeholder: "Today I learned..."
+    validations:
+      required: true
+  - type: textarea
+    id: built
+    attributes:
+      label: What did you code or build?
+      description: "Mention files, exercises, experiments, or project changes."
+  - type: textarea
+    id: next
+    attributes:
+      label: Next step
+      placeholder: "Tomorrow I will..."
