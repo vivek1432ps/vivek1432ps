@@ -1,0 +1,24 @@
+name: "Visitor Feedback"
+description: "Share feedback, suggestions, or collaboration ideas for Vivek's profile and projects."
+title: "[Feedback] "
+labels: ["visitor-feedback"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Feedback type
+      options:
+        - Profile suggestion
+        - Project idea
+        - Bug report
+        - Collaboration
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: message
+    attributes:
+      label: Your message
+      description: "Please keep feedback constructive and do not share private information."
+    validations:
+      required: true
